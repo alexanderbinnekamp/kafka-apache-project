@@ -1,0 +1,6 @@
+rootProject.name = 'kafka_beginners_course'
+include 'kafka-basics'
+include 'conduktor-platform'
+include 'kafka-producer-wikimedia'
+include 'kafka-consumer-opensearch'
+
